@@ -17,6 +17,6 @@ Transpe is a deep learning model model for pegRNA efficiency prediction. It has 
 ## Content
 * **./data:** Original data set
 * **./Data:** Dataset used for training after processing
-* **./finetune:** Parameters of trained model
+* **./param:** Parameters of trained model
 
 
